@@ -57,9 +57,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=AJDWilson&icon=0)](https://visitcount.itsvg.in)
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Roblox+Developer;Game+Creator;Video+Editor" />
-</p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
