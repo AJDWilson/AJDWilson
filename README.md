@@ -12,9 +12,11 @@
 
 </div>
 
----
+<div align="center">
 
-I am currently working for smartwifi, searching for apprenticeships.<br><br>Freelance roblox game developer<br><br>UK Powerlifting
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=45&pause=100000&color=00A85A&center=true&vCenter=true&width=900&height=100&lines=%3E+I+am+currently+working+for+smartwifi%2C+searching+for+apprenticeships.;%3E+Freelance+roblox+game+developer;%3E+UK+Powerlifting" />
+
+</div>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zevixx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrew-jd-wilson) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrew@smartwifi.co.uk) 
 
