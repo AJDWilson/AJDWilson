@@ -13,4 +13,11 @@ I am currently working for smartwifi, searching for apprenticeships.<br><br>Free
 ---
 [![](https://komarev.com/ghpvc/?username=AJDWilson&icon=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=180&section=header&text=MR%20BEAST&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Roblox+Developer;Game+Creator;Video+Editor;Building+cool+stuff+%F0%9F%9A%80" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
