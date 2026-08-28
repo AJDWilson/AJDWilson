@@ -1,6 +1,8 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=180&section=header&text=AJD%20WILSON&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111133,100:000000&height=220&section=header&text=Andrew%20JD%20Wilson&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
+
+</div>
 # About Me:
 I am currently working for smartwifi, searching for apprenticeships.<br><br>Freelance roblox game developer<br><br>UK Powerlifting
 
