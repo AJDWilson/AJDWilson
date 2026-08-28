@@ -1,8 +1,6 @@
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=900&height=60&lines=%24+A+JD+WILSON;%24+Computer+Engineer;%24+Video+Editor" />
 
-</div>
 # About Me:
 I am currently working for smartwifi, searching for apprenticeships.<br><br>Freelance roblox game developer<br><br>UK Powerlifting
 
