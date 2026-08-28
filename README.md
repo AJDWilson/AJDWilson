@@ -14,7 +14,15 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=45&pause=100000&color=00A85A&center=true&vCenter=true&width=900&height=100&lines=%3E+I+am+currently+working+for+smartwifi%2C+searching+for+apprenticeships.;%3E+Freelance+roblox+game+developer;%3E+UK+Powerlifting" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=45&pause=100000&color=00A85A&center=true&vCenter=true&width=900&height=30&lines=%3E+I+am+currently+working+for+smartwifi%2C" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=45&pause=100000&color=00A85A&center=true&vCenter=true&width=900&height=30&lines=%3E+Searching+for+apprenticeships%2C" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=45&pause=100000&color=00A85A&center=true&vCenter=true&width=900&height=30&lines=%3E+Freelance+developer+%2F+video+editor" />
 
 </div>
 
