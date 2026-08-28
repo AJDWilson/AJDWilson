@@ -12,8 +12,6 @@ I am currently working for smartwifi, searching for apprenticeships.<br><br>Free
 ![](https://streak-stats.demolab.com/?user=AJDWilson&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AJDWilson&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AJDWilson&limit=5&theme=dark&combine_all_yearly_contributions=true)
