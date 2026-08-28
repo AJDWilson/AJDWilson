@@ -4,15 +4,21 @@
 
 </div>
 
+---
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=100&pause=100000&color=00FF88&center=true&vCenter=true&width=400&height=50&lines=%24+About+Me%3A" />
 
 </div>
 
+---
+
 I am currently working for smartwifi, searching for apprenticeships.<br><br>Freelance roblox game developer<br><br>UK Powerlifting
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zevixx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrew-jd-wilson) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrew@smartwifi.co.uk) 
+
+---
 
 <div align="center">
 
