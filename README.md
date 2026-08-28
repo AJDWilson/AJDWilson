@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111133,100:000000&height=220&section=header&text=Andrew%20JD%20Wilson&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=250&text=Andrew%20JD%20Wilson&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Roblox%20Developer%20%7C%20Creator%20%7C%20Builder&descSize=18&descAlignY=65"/>
 
 </div>
 # About Me:
