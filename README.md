@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Andrew%20JD%20Wilson&fontSize=50&fontColor=ffffff&animation=twinkling&color=gradient"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1200&pause=500&color=00FF88&center=true&vCenter=true&width=800&height=150&lines=%24+whoami;Andrew+JD+Wilson;%24+cat+skills.txt;Computer+Engineering+%7C+Development+%7C+Video+Editing;%24+system_status;ONLINE+%E2%9C%93;_%7C"/>
 
 </div>
 # About Me:
