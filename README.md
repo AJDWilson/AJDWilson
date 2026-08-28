@@ -11,6 +11,6 @@ I am currently working for smartwifi, searching for apprenticeships.<br><br>Free
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=AJDWilson&icon=0)](11,412)
+[![](https://komarev.com/ghpvc/?username=AJDWilson&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
