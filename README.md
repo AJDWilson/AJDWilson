@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1800&pause=900&color=00FF88&center=true&vCenter=true&width=850&height=80&lines=%24+echo+%22A+JD+WILSON%22;%24+echo+%22Computer+Engineer%22;%24+echo+%22Video+Editor%22" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=900&height=60&lines=%24+A+JD+WILSON;%24+Computer+Engineer;%24+Video+Editor" />
 
 </div>
 # About Me:
@@ -10,15 +10,13 @@ I am currently working for smartwifi, searching for apprenticeships.<br><br>Free
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1200&pause=700&color=00FF88&center=true&vCenter=true&width=850&height=70&lines=%24+Stack%3A+Roblox+%7C+GitHub+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+Python" />
-
-</div>
+<pre>$ Stack:</pre>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1200&pause=700&color=00FF88&center=true&vCenter=true&width=850&height=70&lines=%24+Languages%3A+Lua+%7C+Python+%7C+JavaScript+%7C+HTML+%7C+CSS" />
+<pre>$ Languages:</pre>
 
 </div>
 
